@@ -1,3 +1,5 @@
+
+![How to fight xdddd](https://i.imgur.com/f3cZUDE.png "OG:Image")
 # Fluffy BLOCKlist
 Just another list of domains which do scams and other things like that
 
