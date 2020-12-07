@@ -8,7 +8,7 @@ Add it to **pi.hole**
 https://fluffy-blocklist.skcat.tk/domains
 ```
 **How to install pi.hole**
-https://m.youtube.com/watch?v=dH3DdLy574M&t=98s
+https://m.youtube.com/watch?v=dH3DdLy574M
 If you want to help please make an issue and we will add domains.
 
 
