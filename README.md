@@ -16,3 +16,5 @@ If you want to help please make an issue and we will add domains.
 https://sk.pinterest.com/pin/770960029939733975/
 
 *this also include scam sites from [slovak-cat/ceskoslovensky-zoznam-reklam-a-trackerov](https://github.com/slovak-cat/ceskoslovensky-zoznam-reklam-a-trackerov)*
+
+*also thanks to https://www.cyberthreatcoalition.org*
