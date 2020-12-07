@@ -1,7 +1,7 @@
 ---
 name: Add domain to block list
 about: Adding a domain
-title: ''
+title: '<domain>'
 labels: Add
 assignees: ''
 
