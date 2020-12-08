@@ -17,4 +17,4 @@ https://sk.pinterest.com/pin/770960029939733975/
 
 *this also include scam sites from [slovak-cat/ceskoslovensky-zoznam-reklam-a-trackerov](https://github.com/slovak-cat/ceskoslovensky-zoznam-reklam-a-trackerov)*
 
-*also thanks to https://www.cyberthreatcoalition.org becouse it is realy big we will not host it. https://blocklist.cyberthreatcoalition.org/vetted/domain.txt*
+*also thanks to https://www.cyberthreatcoalition.org becouse it is realy big we will not add it. https://blocklist.cyberthreatcoalition.org/vetted/domain.txt*
